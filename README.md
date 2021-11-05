@@ -1,5 +1,5 @@
 # Portfolio
-Hey, it's my portfolio site. Visit [itsdivik.github.io](https://itsdivik.github.io) to view it. If you find any bug/error or if you want to help me improve the site then feel free to contact me below. Constructive criticism is always welcomed and appreciated.
+Hey, it's my portfolio site. Visit [itsdivik.github.io](https://portfolio-shubham.rf.gd/) to view it. If you find any bug/error or if you want to help me improve the site then feel free to contact me below. Constructive criticism is always welcomed and appreciated.
 
 ### UPDATE:
 * The contact form is now working(I've closed the issue related to it too).
@@ -14,6 +14,4 @@ Hey, it's my portfolio site. Visit [itsdivik.github.io](https://itsdivik.github.
 3. **Sass**
 4. **PHP**
 ### Contact Me:
-* [Email](mailto:divik790@gmail.com)
-* [Instagram](https://www.instagram.com/itsdivik)
-* [Facebook](https://www.facebook.com/itsdivik)
+* [Email](mailto:shub23c@gmail.com)
